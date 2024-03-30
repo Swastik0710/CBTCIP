@@ -26,3 +26,15 @@ The provided C program is a simulation of a bank account management system. It a
 4. *Interest Calculation*: For Savings accounts, the program calculates and adds interest based on a predefined interest rate (5% in this case). It identifies Savings accounts and calculates interest on their balances, updating the balances accordingly.
 
 The program utilizes structures (struct) to represent bank accounts, functions to perform specific operations like deposit, withdrawal, and interest calculation, and a menu-driven interface that allows users to choose from different options to manage bank accounts effectively.
+### TASK- 3: EXPENSE TRACKER
+The provided C program is an Expense Tracker application designed to help users manage their daily expenditures effectively. It offers a user-friendly interface with options to record expenses under different categories, generate visual reports, and gain insights into spending patterns.
+
+1. *Recording Expenses*: Users can input their expenses by specifying the expense category (e.g., groceries, transportation) and the amount spent. The program stores this information in an array of Expense structures.
+
+2. *Generating Reports*: The application allows users to generate expense reports that provide a summary of their spending. The report includes a breakdown of expenses by category and calculates the total amount spent in each category as well as the overall total expenditure.
+
+3. *Insights into Spending Patterns*: By visualizing expenses in a report format, users can gain insights into their spending patterns, identify areas where they are spending more, and make informed decisions to manage their finances better.
+
+4. *User-Friendly Interface*: The program employs a menu-driven interface that guides users through different options, making it easy for them to record expenses and generate reports effortlessly.
+
+Overall, this Expense Tracker application serves as a handy tool for individuals to track their expenses, analyze their spending habits, and take proactive steps towards financial management and budgeting.
