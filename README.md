@@ -1,7 +1,8 @@
 # CIPHERBYTE TECHNOLOGIES PROJECT ON C PROGRAMMING
-## Created by- *Swastik Bhattacharya*
+## Created by- **Swastik Bhattacharya**
 Hi there, I am *Swastik Bhattacharya*, seeking to be an ambitious programmer.
 I have created this project for my internship task given by CipherByte Technologies using the knowledge of C Programming. I am really thankful to them for giving me this wonderful opportunity.
+## TASKS:
 ### TASK- 1: STUDENT GRADE MANAGEMENT
 The provided C program is designed to manage student grades within an educational context. It offers functionalities for inputting student information, including names and scores in multiple subjects, calculating average scores, identifying the highest and lowest scores, and presenting a summary of students' performance.
 
